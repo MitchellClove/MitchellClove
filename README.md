@@ -2,7 +2,7 @@
 
 I'm a Senior at Utah State University! I like to watch movies when I'm not coding. Yes, I can never get enough screen time.
 
-My current project is a website for a friend. Should be done by the end of September 2024!
+My current project is a website for a friend. Should be done by December 2024!
 <!--
 **MitchellClove/MitchellClove** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
