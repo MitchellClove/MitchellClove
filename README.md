@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I'm a Senior at Utah State University! I like to watch movies when I'm not coding. Yes, I can never get enough screen time.
+I'm a student at Utah State University! I like to watch movies when I'm not coding. Yes, I can never get enough screen time.
 
 My most recent project is an online shop, [teknovisestop.com](https://www.teknovisestop.com)
 
