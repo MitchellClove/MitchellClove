@@ -2,7 +2,9 @@
 
 I'm a Senior at Utah State University! I like to watch movies when I'm not coding. Yes, I can never get enough screen time.
 
-My current project is a website for a friend, [teknovisestop.com](https://www.teknovisestop.com)
+My most recent project is an online shop, [teknovisestop.com](https://www.teknovisestop.com)
+
+My current project is a word game similar to the New York Times games. [splat.deno.dev](https://www.splat.deno.dev)
 <!--
 **MitchellClove/MitchellClove** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
