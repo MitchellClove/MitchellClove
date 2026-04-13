@@ -4,7 +4,7 @@ I'm a student at Utah State University! I like to watch movies when I'm not codi
 
 My most recent project is an online shop, [teknovisestop.com](https://www.teknovisestop.com)
 
-My current (work in progress) project is a word game similar to the New York Times games, [splat.deno.dev](https://splat.deno.dev)
+My current (work in progress) project is a word game similar to the New York Times games, [thesplashgame.com](https://thesplashgame.com)
 <!--
 **MitchellClove/MitchellClove** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
