@@ -1,10 +1,11 @@
-## Hi there 👋
+## Hey!
 
 I recently graduated from Utah State University with a Master of Computer Science! I like to watch movies when I'm not coding. Yes, I can never get enough screen time.
 
-My most recent project is an online shop, [teknovisestop.com](https://www.teknovisestop.com)
+My most recent project is a word game similar to the New York Times games, [thesplashgame.com](https://thesplashgame.com)
 
-My current (work in progress) project is a word game similar to the New York Times games, [thesplashgame.com](https://thesplashgame.com)
+Via freelance, I also recently created an online shop to sell vise stops, [teknovisestop.com](https://www.teknovisestop.com). Please excuse any design choicy you deem tacky because I was just following orders. 😉
+
 <!--
 **MitchellClove/MitchellClove** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
