@@ -4,7 +4,7 @@ I recently graduated from Utah State University with a Master of Computer Scienc
 
 My most recent project is a word game similar to the New York Times games, [thesplashgame.com](https://thesplashgame.com)
 
-Via freelance, I also recently created an online shop to sell vise stops, [teknovisestop.com](https://www.teknovisestop.com). Please excuse any design choicy you deem tacky because I was just following orders. 😉
+Via freelance, I also recently created an online shop to sell vise stops, [teknovisestop.com](https://www.teknovisestop.com). Please excuse any design choices you deem tacky because I was just following orders. 😉
 
 <!--
 **MitchellClove/MitchellClove** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
